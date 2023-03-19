@@ -2,6 +2,9 @@
 
 The Dynamic Heatmap Generator is a web application that allows users to generate and visualize different types of dynamic heatmaps. This app provides a simple user interface to input parameters, generate heatmap data, and visualize the results in an interactive way.
 
+## Web App
+[Play](https://scalemailted.github.io/Dynamic-Heatmap-Generator)
+
 ## Features
 
 - Generate heatmaps based on various algorithms:
